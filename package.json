@@ -1,0 +1,24 @@
+{
+  "name": "devops-tp4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint:js": "eslint src/**/*.js",
+    "lint": "npm run lint:js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bee11111/devOps-tp4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bee11111/devOps-tp4/issues"
+  },
+  "homepage": "https://github.com/bee11111/devOps-tp4#readme",
+  "devDependencies": {
+    "eslint": "8.29.0"
+  }
+}
